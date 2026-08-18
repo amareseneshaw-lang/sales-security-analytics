@@ -1,0 +1,16 @@
+Sale_ID,Sale_Date,Sales_Rep,Region,Product,Customer_Type,Deal_Stage,Sales_Amount
+S001,2026-01-05,Alex Johnson,Southeast,CRM Software,Small Business,Closed Won,12500
+S002,2026-01-08,Maria Lopez,Northeast,Cybersecurity Package,Enterprise,Closed Won,28500
+S003,2026-01-12,David Smith,West,Cloud Services,Mid-Market,Closed Lost,18000
+S004,2026-01-18,Alex Johnson,Southeast,IT Support,Small Business,Closed Won,7500
+S005,2026-01-22,Maria Lopez,Northeast,CRM Software,Mid-Market,Closed Won,22000
+S006,2026-02-02,David Smith,West,Cybersecurity Package,Enterprise,Closed Won,35000
+S007,2026-02-07,Alex Johnson,Southeast,Cloud Services,Mid-Market,Proposal,19500
+S008,2026-02-11,Maria Lopez,Northeast,IT Support,Small Business,Closed Won,8200
+S009,2026-02-19,David Smith,West,CRM Software,Enterprise,Closed Lost,31000
+S010,2026-02-25,Alex Johnson,Southeast,Cybersecurity Package,Enterprise,Closed Won,42000
+S011,2026-03-03,Maria Lopez,Northeast,Cloud Services,Mid-Market,Closed Won,24000
+S012,2026-03-09,David Smith,West,IT Support,Small Business,Negotiation,6800
+S013,2026-03-15,Alex Johnson,Southeast,CRM Software,Mid-Market,Closed Won,20500
+S014,2026-03-21,Maria Lopez,Northeast,Cybersecurity Package,Enterprise,Proposal,38000
+S015,2026-03-27,David Smith,West,Cloud Services,Enterprise,Closed Won,45000
