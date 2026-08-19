@@ -1,0 +1,11 @@
+User_ID,Employee_Name,Role,Department,Access_Level,MFA_Enabled,Admin_Privileges
+U001,Alex Johnson,Sales Representative,Sales,Standard,Yes,No
+U002,Maria Lopez,Sales Representative,Sales,Standard,Yes,No
+U003,David Smith,Sales Representative,Sales,Standard,No,No
+U004,Sarah Williams,Sales Manager,Sales,Manager,Yes,No
+U005,James Brown,IT Administrator,IT,Administrator,Yes,Yes
+U006,Emily Davis,Security Administrator,Security,Administrator,Yes,Yes
+U007,Michael Wilson,Sales Representative,Sales,Standard,No,Yes
+U008,Jessica Taylor,Sales Manager,Sales,Manager,Yes,No
+U009,Robert Anderson,IT Support,IT,Standard,No,No
+U010,Linda Thomas,Sales Representative,Sales,Standard,Yes,No
