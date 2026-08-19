@@ -1,11 +1,11 @@
 Audit_Timestamp,User_ID,Employee_Name,Role,Risk_Score,Risk_Level,Findings,Recommendations
-2026-08-18 22:58:05,U001,Alex Johnson,Sales Representative,0,Low,No issues detected,No action required
-2026-08-18 22:58:05,U002,Maria Lopez,Sales Representative,0,Low,No issues detected,No action required
-2026-08-18 22:58:05,U003,David Smith,Sales Representative,50,Medium,MFA disabled,Enable MFA
-2026-08-18 22:58:05,U004,Sarah Williams,Sales Manager,0,Low,No issues detected,No action required
-2026-08-18 22:58:05,U005,James Brown,IT Administrator,0,Low,No issues detected,No action required
-2026-08-18 22:58:05,U006,Emily Davis,Security Administrator,0,Low,No issues detected,No action required
-2026-08-18 22:58:05,U007,Michael Wilson,Sales Representative,100,High,MFA disabled; Potential excessive administrative privilege,Enable MFA; Review and remove unnecessary admin privileges
-2026-08-18 22:58:05,U008,Jessica Taylor,Sales Manager,0,Low,No issues detected,No action required
-2026-08-18 22:58:05,U009,Robert Anderson,IT Support,50,Medium,MFA disabled,Enable MFA
-2026-08-18 22:58:05,U010,Linda Thomas,Sales Representative,0,Low,No issues detected,No action required
+2026-08-18 23:00:25,U001,Alex Johnson,Sales Representative,0,Low,No issues detected,No action required
+2026-08-18 23:00:25,U002,Maria Lopez,Sales Representative,0,Low,No issues detected,No action required
+2026-08-18 23:00:25,U003,David Smith,Sales Representative,50,Medium,MFA disabled,Enable MFA
+2026-08-18 23:00:25,U004,Sarah Williams,Sales Manager,0,Low,No issues detected,No action required
+2026-08-18 23:00:25,U005,James Brown,IT Administrator,0,Low,No issues detected,No action required
+2026-08-18 23:00:25,U006,Emily Davis,Security Administrator,0,Low,No issues detected,No action required
+2026-08-18 23:00:25,U007,Michael Wilson,Sales Representative,100,High,MFA disabled; Potential excessive administrative privilege,Enable MFA; Review and remove unnecessary admin privileges
+2026-08-18 23:00:25,U008,Jessica Taylor,Sales Manager,0,Low,No issues detected,No action required
+2026-08-18 23:00:25,U009,Robert Anderson,IT Support,50,Medium,MFA disabled,Enable MFA
+2026-08-18 23:00:25,U010,Linda Thomas,Sales Representative,0,Low,No issues detected,No action required

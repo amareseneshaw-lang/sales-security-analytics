@@ -398,3 +398,43 @@ SQL Queries
 
 Sales \& Security Findings
 
+
+
+\## Automated Security Audit Logging
+
+
+
+The project includes an automated security audit-log generator.
+
+
+
+The audit process evaluates every CRM user and records:
+
+
+
+\- Audit timestamp
+
+\- User ID
+
+\- Employee name
+
+\- Role
+
+\- Risk score
+
+\- Risk level
+
+\- Security findings
+
+\- Recommended actions
+
+
+
+The generated audit log is saved as:
+
+
+
+```text
+
+security/audit\_log.csv
+
