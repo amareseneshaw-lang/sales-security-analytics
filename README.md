@@ -244,3 +244,101 @@
 
 !\[Security Risk Scores](screenshots/security\_risk\_scores.png)
 
+
+
+\## Security Controls \& Methodology
+
+
+
+\### Multi-Factor Authentication
+
+
+
+MFA status was reviewed for every simulated CRM user.
+
+
+
+The analysis identifies accounts where MFA is disabled and calculates overall MFA compliance.
+
+
+
+Current result:
+
+
+
+\- 10 total users
+
+\- 7 users with MFA
+
+\- 3 users without MFA
+
+\- 70% MFA compliance
+
+
+
+\### Least Privilege
+
+
+
+Administrative privileges were compared against each user's role.
+
+
+
+The assessment flags users who have administrative privileges but whose role does not indicate an administrative responsibility.
+
+
+
+This identified U007 as a potential excessive-privilege account.
+
+
+
+\### Risk Scoring
+
+
+
+Each user receives a simplified security risk score.
+
+
+
+| Control Issue | Points |
+
+|---|---:|
+
+| MFA disabled | +50 |
+
+| Excessive administrative privileges | +50 |
+
+
+
+The maximum score in this model is 100.
+
+
+
+\### Security Assessment Workflow
+
+
+
+```text
+
+CRM User Data
+
+&#x20;     ↓
+
+Authentication Review
+
+&#x20;     ↓
+
+Privilege Review
+
+&#x20;     ↓
+
+Risk Scoring
+
+&#x20;     ↓
+
+Security Findings
+
+&#x20;     ↓
+
+Recommendations
+
