@@ -342,3 +342,59 @@ Security Findings
 
 Recommendations
 
+
+
+\## SQL \& Database Analysis
+
+
+
+The project also uses SQLite to store and analyze the simulated sales and CRM security datasets.
+
+
+
+\### SQL Analysis
+
+
+
+SQL queries are used to:
+
+
+
+\- Calculate total sales value
+
+\- Calculate Closed-Won revenue
+
+\- Rank sales representatives by Closed-Won revenue
+
+\- Identify users without MFA
+
+\- Detect potential excessive administrative privileges
+
+\- Calculate user security risk scores
+
+
+
+\### Database Workflow
+
+
+
+```text
+
+CSV Data
+
+&#x20;  ↓
+
+Python / Pandas
+
+&#x20;  ↓
+
+SQLite Database
+
+&#x20;  ↓
+
+SQL Queries
+
+&#x20;  ↓
+
+Sales \& Security Findings
+
