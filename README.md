@@ -208,3 +208,39 @@
 
 # └── README.md
 
+
+
+\## Visual Results
+
+
+
+\### Sales Performance
+
+
+
+!\[Closed-Won Revenue by Sales Representative](screenshots/closed\_won\_by\_rep.png)
+
+
+
+\### Revenue by Product
+
+
+
+!\[Revenue by Product](screenshots/revenue\_by\_product.png)
+
+
+
+\### MFA Compliance
+
+
+
+!\[MFA Compliance](screenshots/mfa\_compliance.png)
+
+
+
+\### Security Risk Scores
+
+
+
+!\[Security Risk Scores](screenshots/security\_risk\_scores.png)
+
